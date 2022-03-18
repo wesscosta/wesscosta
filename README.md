@@ -1,6 +1,6 @@
 ## Hi there! I am Weslley Costa 👋
-#### Reorganization and centralization of my accounts: [wesscosta](https://github.com/wesscosta), [w355](https://github.com/w355), [CostaWeslley](https://github.com/CostaWeslley)
-
+<!-- #### Reorganization and centralization of my accounts: [wesscosta](https://github.com/wesscosta), [w355](https://github.com/w355), [CostaWeslley](https://github.com/CostaWeslley)
+ -->
 <div>
   <a href="https://github.com/CostaWeslley"/>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=CostaWeslley&show_icons=true&&include_all_commits=true&count_private=true&title_color=67E480&bg_color=191622&text_color=E1E1E6&icon_color=988BC7&border_color=44475a">
