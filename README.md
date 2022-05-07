@@ -1,4 +1,7 @@
 ## Hi there! I am Weslley Costa 👋
+
+• Estudante front-end
+
 <!-- #### Reorganization and centralization of my accounts: [wesscosta](https://github.com/wesscosta), [w355](https://github.com/w355), [CostaWeslley](https://github.com/CostaWeslley)
  -->
 <div>
@@ -16,4 +19,14 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="XD" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg">
 </div>
+
+
+## Contatos:
+  
+<div> 
+  <a href="https://github.com/wesscosta-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/weslleycosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+  
+![Snake animation](https://github.com/wesscosta-dev/wesscosta-dev/blob/output/github-contribution-grid-snake.svg)
 
