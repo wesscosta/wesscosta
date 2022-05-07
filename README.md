@@ -1,6 +1,6 @@
 # Hi there! I am Weslley Costa 👋
 
-• Estudante front-end
+<!-- • Estudando sempre-->
 
 <!-- #### Reorganization and centralization of my accounts: [wesscosta](https://github.com/wesscosta), [w355](https://github.com/w355), [CostaWeslley](https://github.com/CostaWeslley)
  -->
