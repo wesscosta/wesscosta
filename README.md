@@ -1,9 +1,8 @@
-# Hi there! I am Weslley Costa 👋
+# Olá! Me chamo Weslley Costa 👋
 
-<!-- • Estudando sempre-->
+• Desenvolvedor Web e UI Designer <br>
+• Pós-graduando em Engenharia de Software
 
-<!-- #### Reorganization and centralization of my accounts: [wesscosta](https://github.com/wesscosta), [w355](https://github.com/w355), [CostaWeslley](https://github.com/CostaWeslley)
- -->
 <div>
   <a href="https://github.com/wesscosta-dev"/>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=wesscosta-dev&show_icons=true&&include_all_commits=true&count_private=true&title_color=67E480&bg_color=191622&text_color=E1E1E6&icon_color=988BC7&border_color=44475a">
@@ -23,12 +22,15 @@
 </div>
 
 
-## Contatos:
+## Social:
   
 <div> 
   <a href="https://github.com/wesscosta-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/weslleycosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 </div>
+
+
   
 <!-- ![Snake animation](https://github.com/wesscosta-dev/wesscosta-dev/blob/output/github-contribution-grid-snake.svg) -->
 
