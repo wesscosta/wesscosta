@@ -3,17 +3,35 @@
 • I'm a web developer and UI designer <br>
 • Postgraduate student in Software Engineering <br>
 
-## Technologies:
+## Main technologies:
 <div>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Docker" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="XD" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg">
+  <img align="center" alt="Postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
 </div>
 
+## Technologies they study:
+<div>
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+</div>
+
+## I've worked with these technologies:
+<div>
+    <img align="center" alt="Docker" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+</div>
+
+
+## Designer:
+<div>
+<!-- https://cdn.worldvectorlogo.com/logos/adobe-xd.svg -->
+  <img align="center" alt="Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+  <img align="center" alt="XD" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg">
+  <img align="center" alt="Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg">
+  <img align="center" alt="Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg">
+</div>
 
 ## Metrics:
 <div>
@@ -30,4 +48,8 @@
 </div>
 
 <!-- ![Snake animation](https://github.com/wesscosta-dev/wesscosta-dev/blob/output/github-contribution-grid-snake.svg) -->
+
+
+
+
 
