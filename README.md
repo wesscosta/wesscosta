@@ -1,5 +1,5 @@
 <div> 
-  leia em português <a href="https://github.com/wesscosta-dev-pt">clicando aqui.</a>
+  leia em português <a href="https://github.com/wesscosta-dev/wesscosta-dev-pt/blob/main/README.md">clicando aqui.</a>
 </div>
 
 # Hello, My name is Weslley Costa 👋
