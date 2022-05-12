@@ -1,9 +1,9 @@
-# Olá! Meu nome é Weslley Costa 👋
+# Hello, My name is wesley Costa 👋
 
-• Sou desenvolvedor Web e UI <br>
-• Pós-graduando em Engenharia de Software <br>
+• I'm a web developer and UI designe r<br>
+• Postgraduate student in Software Engineering <br>
 
-## Tecnologias:
+## Technologies:
 <div>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Docker" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
@@ -15,7 +15,7 @@
 </div>
 
 
-## Metricas:
+## Metrics:
 <div>
   <a href="https://github.com/wesscosta-dev"/>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=wesscosta-dev&show_icons=true&&include_all_commits=true&count_private=true&title_color=67E480&bg_color=191622&text_color=E1E1E6&icon_color=988BC7&border_color=44475a">
