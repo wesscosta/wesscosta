@@ -1,6 +1,6 @@
 # Hello, My name is Weslley Costa 👋
 
-• I'm a web developer and UI designe r<br>
+• I'm a web developer and UI designer <br>
 • Postgraduate student in Software Engineering <br>
 
 ## Technologies:
