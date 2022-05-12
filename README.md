@@ -1,4 +1,4 @@
-# Hello, My name is wesley Costa 👋
+# Hello, My name is Weslley Costa 👋
 
 • I'm a web developer and UI designe r<br>
 • Postgraduate student in Software Engineering <br>
