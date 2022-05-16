@@ -3,7 +3,7 @@
 
 <h2> :man: Olá, meu nome é Weslley Costa 👋 </h2>
     <ul>
-      <ol> • 🤔 &nbsp; Sou Full stack developer e UI designer.</ol>
+      <ol> • 🤔 &nbsp; Full stack developer e UI designer.</ol>
       <ol> • 🤔 &nbsp; Explorando novas tecnologias e soluções de software.</ol>
       <ol> • 🎓 &nbsp; Pós-graduando em Engenharia de Software.</ol>
     </ul>
