@@ -48,9 +48,9 @@
         
 <div>
   <h2>Metricas<h2>
-  <a href="https://github.com/wesscosta-dev"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=wesscosta-dev&show_icons=true&&include_all_commits=true&count_private=true&title_color=67E480&bg_color=191622&text_color=E1E1E6&icon_color=988BC7&border_color=44475a">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesscosta-dev&layout=compact&langs_count=8&title_color=67E480&bg_color=191622&text_color=E1E1E6&border_color=44475a">
+  <a href="https://github.com/wesscosta"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=wesscosta&show_icons=true&&include_all_commits=true&count_private=true&title_color=67E480&bg_color=191622&text_color=E1E1E6&icon_color=988BC7&border_color=44475a">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesscosta&layout=compact&langs_count=8&title_color=67E480&bg_color=191622&text_color=E1E1E6&border_color=44475a">
 </div>
 
  <div style="padding-left:50px">
