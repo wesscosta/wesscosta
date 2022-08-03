@@ -3,7 +3,7 @@
 
 <h2> :man: Olá, meu nome é Weslley Costa 👋 </h2>
     <ul>
-        <ol> • 🤔 &nbsp; "Aquilo que temos de aprender, aprendemos fazendo." - Ariistoteles </ol>
+        <ol> • 🤔 &nbsp; "Aquilo que temos de aprender, aprendemos fazendo." - Aristoteles </ol>
         <ol> • 🤔 &nbsp; Full stack developer e UI designer.</ol>
         <ol> • 🎓 &nbsp; Pós-graduando em Engenharia de Software.</ol>
     </ul>
