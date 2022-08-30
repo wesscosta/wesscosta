@@ -35,6 +35,8 @@
     <a href="https://www.linkedin.com/in/weslleycosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://www.behance.net/wess" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
      <a href="https://twitter.com/_wesscosta" target="_blank"><img src="https://img.shields.io/badge/twitter-1769ff?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+      <a href="https://weslleycosta.com" target="_blank"><img src="https://img.shields.io/badge/Website-1769ff?style=for-the-badge&logoColor=white" target="_blank"></a>
+
      
 </div>
  
