@@ -25,11 +25,11 @@ Full Stack Developer
 </div>
    
    ## Metrics:
-<div>
+<!-- <div>
     <a href="https://github.com/wesscosta"/>
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=wesscosta&show_icons=true&&include_all_commits=true&count_private=true&title_color=67E480&bg_color=191622&text_color=E1E1E6&icon_color=988BC7&border_color=44475a">
 </div>
-
+-->
  <h2> :earth_americas: &nbsp;Where to find me: </h2> 
  <div style="padding-left:50px">
     <a href="https://www.linkedin.com/in/weslleycosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
